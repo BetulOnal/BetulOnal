@@ -50,13 +50,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&hide_border=true&layout=compact" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </td></tr></table>  
 
