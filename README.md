@@ -15,7 +15,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/betulonal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betulbonal@gmail.com) 
 
-# 💻 Languages and Tools  
+## 💻 Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -52,11 +52,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&hide_border=true&layout=compact" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&hide_border=true&layout=compact" align="center" /></div>
+
 
 </td></tr></table>  
 
@@ -64,15 +64,4 @@
 
   
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
