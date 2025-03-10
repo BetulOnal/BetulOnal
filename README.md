@@ -51,11 +51,23 @@
 <table><tr><td valign="top" width="50%">
 
 
+
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>    
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
 
 
 <br />
