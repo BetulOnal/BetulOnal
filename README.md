@@ -47,7 +47,20 @@
 </div>  
 
 <br/>  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📊 Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+
+<br />
