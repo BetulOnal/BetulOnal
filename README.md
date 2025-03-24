@@ -1,6 +1,6 @@
 <div align="center" > 
 <h1>Hey there 👋 I'm Betul </h1>
-<p> <strong>I am a self-educated, curious, and determined full-stack developer  </strong></p>
+<h3> <strong>I am a self-educated, curious, and determined full-stack developer  </strong></h3>
 <img src="https://github.com/user-attachments/assets/543b1657-9312-4dfc-86d6-1518a3d1dd14" width="50%" height="50%" > 
 <h3> <strong>"Don't give up and try one more time" </strong></h3>
 <h4> This approach is integral my professional journey.</h4>
@@ -14,7 +14,7 @@
   <li align="left" >🤔 <strong>Philosophy:</strong> <em>"Keep It Simple, Stupid" (KISS)</em></li>
   <li align="left" >💻 <strong>Current obsession:</strong> Making TypeScript say "never" to <code>any</code></li>
   
-# <h3 align="left">Feel free to connect with me 📝</h3> 
+# <h2 align="left">Feel free to connect with me 📝</h2> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulonal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betulbonal@gmail.com) 
 
 ## 💻 Languages and Tools  
