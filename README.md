@@ -1,4 +1,3 @@
-
 <div align="center" > 
 <h1 >Hey there 👋 I'm Betul </h1>
 <h2>I am a self-educated, curious, and determined full-stack developer </h2>
@@ -8,18 +7,16 @@
 
 ###
 
-# <h2 align="right ">🎲 About Me</h2>
-<ul>
+# <h2 align="left ">🎲 About Me</h2>
   <li>🔥 <strong>I turn:</strong> <code>Coffee</code> → <code>Clean code</code> (80% success rate)</li>
   <li>🎯 <strong>My superpower:</strong> Refactoring legacy code without crying</li>
-  <li>🤔 <strong>Philosophy:</strong> <em>"If it works, test it. If it breaks, document it."</em></li>
+  <li>🤔 <strong>Philosophy:</strong> <em>"Keep It Simple, Stupid" (KISS)</em></li>
   <li>💻 <strong>Current obsession:</strong> Making TypeScript say "never" to <code>any</code></li>
-</ul>
 
 ###
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/betulonal) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulonal/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betulbonal@gmail.com) 
 
 ## 💻 Languages and Tools  
