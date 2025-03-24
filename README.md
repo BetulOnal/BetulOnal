@@ -3,14 +3,15 @@
 <h1 >Hey there 👋 I'm Betul </h1>
 <h2>I am a self-educated, curious, and determined full-stack developer </h2>
 <img src="https://github.com/user-attachments/assets/543b1657-9312-4dfc-86d6-1518a3d1dd14" width="50%" height="50%"> 
-<h4> My personal motto: <h3 color="red">"Don't give up and try one more time"</h3> </h4>
+ <h3 color="red">"Don't give up and try one more time"</h3>
 <h4> This approach is integral my professional journey.</h4>
-
-
 
 ###
 
-<h2 align="left">About me</h2>
+### **🎲 About Me**  
+- 🔥 **I turn:** `Coffee` → `Clean code` (80% success rate)  
+- 🎯 **My superpower:** Refactoring legacy code without crying  
+- 🤔 **Philosophy:** *"If it works, test it. If it breaks, document it."*  
 
 ###
 
