@@ -13,7 +13,8 @@
   <li align="left" >🤔 <strong>Philosophy:</strong> <em>"Keep It Simple, Stupid" (KISS)</em></li>
   <li align="left" >💻 <strong>Current obsession:</strong> Making TypeScript say "never" to <code>any</code></li>
   
-# <h4 align="left">Feel free to connect with me </h4> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulonal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betulbonal@gmail.com) 
+# <h3 align="left">Feel free to connect with me 📝</h3> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betulonal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betulbonal@gmail.com) 
 
 ## 💻 Languages and Tools  
 <div align="center">  
