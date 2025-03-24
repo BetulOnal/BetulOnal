@@ -1,17 +1,17 @@
 <div align="center" > 
 <h1 >Hey there 👋 I'm Betul </h1>
-<p>I am a self-educated, curious, and determined full-stack developer</p>
+<p> <strong>I am a self-educated, curious, and determined full-stack developer  </strong></p>
 <img src="https://github.com/user-attachments/assets/543b1657-9312-4dfc-86d6-1518a3d1dd14" width="50%" height="50%"> 
 <h3> <strong>"Don't give up and try one more time" </strong></h3>
 <h4> This approach is integral my professional journey.</h4>
 
 ###
 
-# <h2 align="left ">About Me</h2>
-  <li align="left >🔥 <strong>I turn:</strong> <code>Coffee</code> → <code>Clean code</code> (80% success rate)</li>
-  <li align="left >🎯 <strong>My superpower:</strong> Refactoring legacy code without crying</li>
-  <li align="left >🤔 <strong>Philosophy:</strong> <em>"Keep It Simple, Stupid" (KISS)</em></li>
-  <li align="left >💻 <strong>Current obsession:</strong> Making TypeScript say "never" to <code>any</code></li>
+# <h2 align="left">About Me</h2>
+  <li align="left" >🔥 <strong>I turn:</strong> <code>Coffee</code> → <code>Clean code</code> (80% success rate)</li>
+  <li align="left" >🎯 <strong>My superpower:</strong> Refactoring legacy code without crying</li>
+  <li align="left" >🤔 <strong>Philosophy:</strong> <em>"Keep It Simple, Stupid" (KISS)</em></li>
+  <li align="left" >💻 <strong>Current obsession:</strong> Making TypeScript say "never" to <code>any</code></li>
 
 ###
 
