@@ -1,7 +1,9 @@
-<h1 align="left">Hey there 👋 I'm Betul </h1>
+<div align="center"> 
+  <h1 align="left">Hey there 👋 I'm Betul </h1>
 <h2>I am a self-educated, curious, and determined full-stack developer </h2>
 <img src="https://github.com/user-attachments/assets/543b1657-9312-4dfc-86d6-1518a3d1dd14"> 
 <h3> My personal motto: "Don't give up and try one more time" this approach is integral my professional journey.</h3>
+
 
 
 ###
@@ -55,6 +57,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetulOnal&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
+</div>
 
 
   
