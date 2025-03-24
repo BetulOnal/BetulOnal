@@ -2,7 +2,7 @@
 <h1 >Hey there 👋 I'm Betul </h1>
 <h2>I am a self-educated, curious, and determined full-stack developer </h2>
 <img src="https://github.com/user-attachments/assets/543b1657-9312-4dfc-86d6-1518a3d1dd14" width="50%" height="50%"> 
- <h3> <strong>"Don't give up and try one more time" </strong></h3>
+<h3> <strong>"Don't give up and try one more time" </strong></h3>
 <h4> This approach is integral my professional journey.</h4>
 
 ###
