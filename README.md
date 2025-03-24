@@ -3,22 +3,24 @@
 <h1 >Hey there 👋 I'm Betul </h1>
 <h2>I am a self-educated, curious, and determined full-stack developer </h2>
 <img src="https://github.com/user-attachments/assets/543b1657-9312-4dfc-86d6-1518a3d1dd14" width="50%" height="50%"> 
- <h3 color="red">"Don't give up and try one more time"</h3>
+ <h3> <strong>"Don't give up and try one more time" </strong></h3>
 <h4> This approach is integral my professional journey.</h4>
 
 ###
 
-### **🎲 About Me**  
-- 🔥 **I turn:** `Coffee` → `Clean code` (80% success rate)  
-- 🎯 **My superpower:** Refactoring legacy code without crying  
-- 🤔 **Philosophy:** *"If it works, test it. If it breaks, document it."*  
+# <h2 align="right ">🎲 About Me</h2>
+<ul>
+  <li>🔥 <strong>I turn:</strong> <code>Coffee</code> → <code>Clean code</code> (80% success rate)</li>
+  <li>🎯 <strong>My superpower:</strong> Refactoring legacy code without crying</li>
+  <li>🤔 <strong>Philosophy:</strong> <em>"If it works, test it. If it breaks, document it."</em></li>
+  <li>💻 <strong>Current obsession:</strong> Making TypeScript say "never" to <code>any</code></li>
+</ul>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/betulonal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betulbonal@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/betulonal) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:betulbonal@gmail.com) 
 
 ## 💻 Languages and Tools  
 <div align="center">  
